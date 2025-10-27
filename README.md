@@ -7,4 +7,4 @@ Python | Java | JavaScript | HTML/CSS | Git | SQL
 📂 Featured Projects
 [BGN to EUR Converter] – Currency conversion app in Python |
 [Portfolio Website] – My personal website
--->
+
