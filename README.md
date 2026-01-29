@@ -20,12 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1Yanis1&show_icons=true&theme=tokyonight" alt="Yanis's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Yanis1&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="mailto:qhomkov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
