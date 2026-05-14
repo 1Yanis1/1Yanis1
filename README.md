@@ -4,7 +4,7 @@
 * 🎓 **Junior Developer in training** at SoftUni.
 * 🚀 Passionate about building impactful projects and learning new technologies.
 * 🇧🇬 Based in Bulgaria.
-* 🌱 Currently focusing on deepening my knowledge in **Python** and **Java**.
+* 🌱 Currently focusing on deepening my knowledge in **Python** and **C#**.
 
 ### 📚 Education
 * 🏫 **Software University (SoftUni)** - Professional training in Software Engineering.
